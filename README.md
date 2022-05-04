@@ -1,5 +1,5 @@
 # [人人有CODE DUP] - 5分鐘學會selenium. 預防婚姻再破裂
-( 唔好捉我GRAMMER )
+( 唔好捉我GRAMMAR )
 
 00:00 買唔到飛 Introduction
 
